@@ -5,7 +5,7 @@ export default function About() {
     <div className="px-4 py-10 max-w-4xl mx-auto text-gray-800">
       {/* ✅ SEO Tags */}
       <Helmet>
-        <title>About - ShortsSaver | YouTube Shorts & Reels Downloader</title>
+        <title>About - ShortsSaver | YouTube Shorts & Reels </title>
         <meta
           name="description"
           content="Learn about ShortsSaver – a clean, fast and ad-free YouTube Shorts & Instagram Reels downloader. Built by Ashutosh for privacy-conscious users."
