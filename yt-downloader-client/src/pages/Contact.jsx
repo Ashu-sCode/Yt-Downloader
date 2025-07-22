@@ -14,7 +14,7 @@ export default function Contact() {
           name="keywords"
           content="Contact ShortsSaver, ShortsSaver Support, ShortsSaver Email, YouTube Shorts Downloader Help"
         />
-        <link rel="canonical" href="https://shortsaver.co.in/contact" />
+        <link rel="canonical" href="https://shortsaver/contact" />
       </Helmet>
 
       <h1 className="text-3xl font-extrabold text-red-600 mb-6 text-center">
